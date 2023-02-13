@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanozdemir" alt="oguzhanozdemir" /> </p>
 
-- 🖨️ I’m currently learning React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="20" height="20"/>
+- 🖨️ I’m currently learning React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="15" height="15"/>
 - 👨‍💻 All of my projects are available at [oguzhanozdemir](https://github.com/OuzOzdemir)
 - 💬 Ask me about Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Development Libraries.
 
