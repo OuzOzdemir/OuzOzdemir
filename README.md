@@ -6,10 +6,11 @@
 - 👨‍💻 I’m currently learning React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="12" height="12"/>
 - 💬 Ask me about Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Development Libraries.
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="tensorflow" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+<p align="left"> 
+   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
 </p>
 
 ##  Contact
