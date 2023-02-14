@@ -1,10 +1,9 @@
 ### Hi 👋, I'm Oguzhan Ozdemir
-### Self-taught Front-end web developer, Marine Engineer / Oceangoing Watchkeeping Engineer
+### Self-taught Front-end developer, Marine Engineer / Oceangoing Watchkeeping Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanozdemir" alt="oguzhanozdemir" /> </p>
 
-- 🖨️ I’m currently learning React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="15" height="15"/>
-- 👨‍💻 All of my projects are available at [oguzhanozdemir](https://github.com/OuzOzdemir)
+- 👨‍💻 I’m currently learning React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="12" height="12"/>
 - 💬 Ask me about Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Development Libraries.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="tensorflow" width="40" height="40"/>
