@@ -2,7 +2,7 @@
 ### Self-taught Front-end developer, Marine Engineer / Oceangoing Watchkeeping Engineer
 
 
-- 👨‍💻 I’m currently working on my React skills, building projects and carry out freelance jobs<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="15" height="15"/>
+- 👨‍💻 I’m currently working on my React<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="15" height="15"/> skills, building projects and carry out freelance jobs.
 - 💬 Ask me about Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Development Libraries.
 
 <p align="left"> 
