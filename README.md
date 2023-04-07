@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Oguzhan Ozdemir
-### Self-taught Front-end developer, Marine Engineer / Oceangoing Watchkeeping Engineer
+### Self-taught Frontend developer, Marine Engineer / Oceangoing Watchkeeping Engineer
 
 
 - 👨‍💻 I’m currently working on my React <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="15" height="15"/> skills, building projects and carrying out freelance jobs.
